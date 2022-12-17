@@ -7,58 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://gitmoorehub.github.io/Portfolio_Profiles/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gitmoorehub.github.io/Portfolio_Profiles/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Javascript</title>
+      <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/javascript/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/development/</guid>
+      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Node.JS</title>
+      <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/node.js/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/golang/</guid>
+      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
       <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/python/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/tags/themes/</guid>
       <description></description>
     </item>
     
