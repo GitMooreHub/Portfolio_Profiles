@@ -10,19 +10,19 @@
     <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gitmoorehub.github.io/Portfolio_Profiles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science Portfolio</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/data-science-portfolio/</link>
+      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/data-science-portfolio/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/data-science-portfolio/</guid>
+      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/data-science-portfolio/</guid>
       <description>CS539 Final Project Description: The project to predict density of a tungsten based alloy using both regression type and classification based models as well as characterize trends and gather insight on fluence of features chosen had both insightful and shocking results. The challenge to predict ingot density, with a 70% cross-validated accuracy based on chemical properties, powder characteristics and basic processing parameters was seemingly successful using KNN, SVM, Random Forest and Decision Tree models.</description>
     </item>
     
     <item>
       <title>Java Portfolio</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/java-portfolio/</link>
+      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/java-portfolio/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/java-portfolio/</guid>
+      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/java-portfolio/</guid>
       <description>Nothing to see here yet. Check again soon! 👋 </description>
     </item>
     
@@ -37,19 +37,19 @@
     
     <item>
       <title>Node.JS/Javascript Portfolio</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/node.js/javascript-portfolio/</link>
+      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/node.js/javascript-portfolio/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/node.js/javascript-portfolio/</guid>
+      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/node.js/javascript-portfolio/</guid>
       <description>Nothing to see here yet. Check back soon! 👋 </description>
     </item>
     
     <item>
       <title>Python Portfolio</title>
-      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/python-portfolio/</link>
+      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/python-portfolio/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/python-portfolio/</guid>
+      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/python-portfolio/</guid>
       <description>Nothing to see here yet! Check back soon. 👋 </description>
     </item>
     
