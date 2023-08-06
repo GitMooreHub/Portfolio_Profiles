@@ -6,40 +6,68 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://gitmoorehub.github.io/Portfolio_Profiles/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Data Science Portfolio</title>
-            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/data-science-portfolio/</link>
-            <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+            <title>Java Portfolio</title>
+            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/08/java-portfolio/</link>
+            <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
             
-            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/data-science-portfolio/</guid>
-            <description>CS539 Final Project Description: The project to predict density of a tungsten based alloy using both regression type and classification based models as well as characterize trends and gather insight on fluence of features chosen had both insightful and shocking results. The challenge to predict ingot density, with a 70% cross-validated accuracy based on chemical properties, powder characteristics and basic processing parameters was seemingly successful using KNN, SVM, Random Forest and Decision Tree models.</description>
-            <content type="html"><![CDATA[<h2 id="cs539-final-project">CS539 Final Project</h2>
-<h3 id="description">Description:</h3>
-<p>The project to predict density of a tungsten based alloy using both regression type and classification based models as well as characterize trends and gather insight on fluence of features chosen had both insightful and shocking results. The challenge to predict ingot density, with a 70% cross-validated accuracy based on chemical properties, powder characteristics and basic processing parameters was seemingly successful using KNN, SVM, Random Forest and Decision Tree models. Among the successful models other insights derived included the influence of the time of year, trace elements outside primary elements and dataset complications.</p>
-<p><a href="https://github.com/GitMooreHub/Moore_Data_Science_Portfolio">Final Project Repository</a></p>
+            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/08/java-portfolio/</guid>
+            <description>Moore_Java_Portfolio A portfolio showcasing my Java skills, knowledge, and projects. Projects include scripting for games, object-oriented programming, and design.
+Some projects that I have worked on include Runescape automated player scripts and the back-end of a chat server using Java Sockets.
+Runescape Automated Player Scripts The Runescape automated player scripts helped with the understanding of:
+Java, Python, and C++ languages. Additional libraries used is Java Swing packages. More skills include API familiarity as I had to work with the games API as well as the automation client.</description>
+            <content type="html"><![CDATA[<h2 id="moore_java_portfolio">Moore_Java_Portfolio</h2>
+<p>A portfolio showcasing my Java skills, knowledge, and projects. Projects include scripting for games, object-oriented programming, and design.</p>
+<p>Some projects that I have worked on include Runescape automated player scripts and the back-end of a chat server using Java Sockets.</p>
+<h3 id="runescape-automated-player-scripts">Runescape Automated Player Scripts</h3>
+<p>The Runescape automated player scripts helped with the understanding of:</p>
+<ol>
+<li>Java, Python, and C++ languages. Additional libraries used is Java Swing packages.</li>
+<li>More skills include API familiarity as I had to work with the games API as well as the automation client.</li>
+<li>Automation techniques and logic such as using scripts and navigating with the game&rsquo;s mechanics and UI.</li>
+<li>Script design from the logic required from the automated plater.</li>
+<li>Data parsing from data collected from the game and using it to react with actions in the game.</li>
+<li>Anti-Automated Player awareness from making these automated players I&rsquo;ve learned their advanced behavior and limitations of them.</li>
+<li>Debugging and testing from making sure the code generally works and works with new updates to both the game and the client.</li>
+</ol>
+<p>These skills I believe are essential in any understanding of programming of games and apps.</p>
+<h3 id="java-messaging-client">Java Messaging Client</h3>
+<p>The Java Sockets chat server back-end has helped me develop the following skills:</p>
+<ol>
+<li>Advanced Java programming experience.</li>
+<li>Socket API that allowed me to create, manage, and communicate over network sockets. Includes server-side and client-side development.</li>
+<li>Network protocols understanding such as TCP/IP, sockets, ports and IP addresses, and differential layers of OSI models.</li>
+<li>Understanding of concurrency through multiple clients&rsquo; ability to join a chat server which developed skills in thread management, synchronization, and concurrent programming.</li>
+<li>Server architecture due to handling client connections, messaging routes, and data storage.</li>
+<li>Error handling and logging were developed through various potential errors including logging and debugging.</li>
+<li>API design through the building blocks of a RESTful API and handle HTTP requests and manage responses.</li>
+</ol>
 ]]></content>
         </item>
         
         <item>
-            <title>Java Portfolio</title>
-            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/java-portfolio/</link>
+            <title>Data Science Portfolio</title>
+            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/data-science-portfolio/</link>
             <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
             
-            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/java-portfolio/</guid>
-            <description>Nothing to see here yet. Check again soon! 👋 </description>
-            <content type="html"><![CDATA[<h2 id="nothing-to-see-here-yet-check-again-soon-">Nothing to see here yet. Check again soon! 👋</h2>
+            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/data-science-portfolio/</guid>
+            <description>CS539 Final Project Description: The project to predict density of a tungsten based alloy using both regression type and classification based models as well as characterize trends and gather insight on fluence of features chosen had both insightful and shocking results. The challenge to predict ingot density, with a 70% cross-validated accuracy based on chemical properties, powder characteristics and basic processing parameters was seemingly successful using KNN, SVM, Random Forest and Decision Tree models.</description>
+            <content type="html"><![CDATA[<h2 id="cs539-final-project">CS539 Final Project</h2>
+<h3 id="description">Description:</h3>
+<p>The project to predict density of a tungsten based alloy using both regression type and classification based models as well as characterize trends and gather insight on fluence of features chosen had both insightful and shocking results. The challenge to predict ingot density, with a 70% cross-validated accuracy based on chemical properties, powder characteristics and basic processing parameters was seemingly successful using KNN, SVM, Random Forest and Decision Tree models. Among the successful models other insights derived included the influence of the time of year, trace elements outside primary elements and dataset complications.</p>
+<p><a href="https://gitmoorehub.github.io/Moore_CS539_Final_Project/">Final Project Repository</a></p>
 ]]></content>
         </item>
         
         <item>
             <title>Node.JS/Javascript Portfolio</title>
-            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/node.js_javascript-portfolio/</link>
+            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/node.js/javascript-portfolio/</link>
             <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
             
-            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/node.js_javascript-portfolio/</guid>
+            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/node.js/javascript-portfolio/</guid>
             <description>Nothing to see here yet. Check back soon! 👋 </description>
             <content type="html"><![CDATA[<h2 id="nothing-to-see-here-yet-check-back-soon-">Nothing to see here yet. Check back soon! 👋</h2>
 ]]></content>
@@ -47,21 +75,10 @@
         
         <item>
             <title>Python Portfolio</title>
-            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/python-portfolio/</link>
+            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/python-portfolio/</link>
             <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
             
-            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/python-portfolio/</guid>
-            <description>Nothing to see here yet! Check back soon. 👋 </description>
-            <content type="html"><![CDATA[<h2 id="nothing-to-see-here-yet-check-back-soon-">Nothing to see here yet! Check back soon. 👋</h2>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Python Portfolio</title>
-            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/database-management-systems-portfolio/</link>
-            <pubDate>Fri, 08 Mar 2023 00:00:00 +0000</pubDate>
-            
-            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/portfolios/database-management-systems-portfolio/</guid>
+            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/python-portfolio/</guid>
             <description>Nothing to see here yet! Check back soon. 👋 </description>
             <content type="html"><![CDATA[<h2 id="nothing-to-see-here-yet-check-back-soon-">Nothing to see here yet! Check back soon. 👋</h2>
 ]]></content>
