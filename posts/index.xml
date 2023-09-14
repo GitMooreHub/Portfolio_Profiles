@@ -6,7 +6,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://gitmoorehub.github.io/Portfolio_Profiles/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
@@ -59,6 +59,42 @@ Java, Python, and C++ languages. Additional libraries used is Java Swing package
 <h3 id="description">Description:</h3>
 <p>The project to predict density of a tungsten based alloy using both regression type and classification based models as well as characterize trends and gather insight on fluence of features chosen had both insightful and shocking results. The challenge to predict ingot density, with a 70% cross-validated accuracy based on chemical properties, powder characteristics and basic processing parameters was seemingly successful using KNN, SVM, Random Forest and Decision Tree models. Among the successful models other insights derived included the influence of the time of year, trace elements outside primary elements and dataset complications.</p>
 <p><a href="https://gitmoorehub.github.io/Moore_CS539_Final_Project/">Final Project Repository</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>SQL Portfolio</title>
+            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/09/sql-portfolio/</link>
+            <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/09/sql-portfolio/</guid>
+            <description>Query Optem Description: This project was the final project of my masters-level database management class. The project, titled Statistical Analysis of the Effect of Denormalization on Query Resource Consumption and Performance, covered the normalization of applicable TPC-H benchmark sets of queries and if there was a correlation to the resources required to complete the query.
+Some skills learned from this project is:
+Understanding of Normalizaiton and Denormalization. Advanced SQL Querying: writing and optimizing complex queries, using joins, subqueries, aggrates, etc.</description>
+            <content type="html"><![CDATA[<h2 id="query-optem">Query Optem</h2>
+<h3 id="description">Description:</h3>
+<p>This project was the final project of my masters-level database management class. The project, titled <em>Statistical Analysis of the Effect of Denormalization on Query Resource Consumption and Performance</em>, covered the normalization of applicable TPC-H benchmark sets of queries and if there was a correlation to the resources required to complete the query.</p>
+<p>Some skills learned from this project is:</p>
+<ol>
+<li>Understanding of Normalizaiton and Denormalization.</li>
+<li>Advanced SQL Querying: writing and optimizing complex queries, using joins, subqueries, aggrates, etc.</li>
+<li>Indexing: Identifying columns and combinations that can benefit from indexing to enhance query performance.</li>
+<li>Database Performance Tuning: understanding how storage mechanisms, IO operations, and in-memory processes impact query performance.</li>
+<li>Benchmarks: understanding the purpose and design of the TPC-H benchmark.</li>
+<li>Data Modeling: Translating real world data to database structures - modifying to fit denormalized techniques.</li>
+</ol>
+<p>Check out the entire project page here: <a href="https://github.com/GitMooreHub/Moore_SQL_Portfolio/blob/main/Project_Manuscript.pdf">CS542 Final Project Manuscript</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Kotlin and Android Development Portfolio</title>
+            <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/08/kotlin-and-android-development-portfolio/</link>
+            <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/08/kotlin-and-android-development-portfolio/</guid>
+            <description>Nothing to see here yet! Check back soon. 👋 </description>
+            <content type="html"><![CDATA[<h2 id="nothing-to-see-here-yet-check-back-soon-">Nothing to see here yet! Check back soon. 👋</h2>
 ]]></content>
         </item>
         
