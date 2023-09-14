@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database Management on Hello, my name is Todd Moore</title>
+    <link>https://gitmoorehub.github.io/Portfolio_Profiles/categories/database-management/</link>
+    <description>Recent content in Database Management on Hello, my name is Todd Moore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gitmoorehub.github.io/Portfolio_Profiles/categories/database-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Portfolio</title>
+      <link>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/09/sql-portfolio/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/09/sql-portfolio/</guid>
+      <description>Query Optem Description: This project was the final project of my masters-level database management class. The project, titled Statistical Analysis of the Effect of Denormalization on Query Resource Consumption and Performance, covered the normalization of applicable TPC-H benchmark sets of queries and if there was a correlation to the resources required to complete the query.
+Some skills learned from this project is:
+Understanding of Normalizaiton and Denormalization. Advanced SQL Querying: writing and optimizing complex queries, using joins, subqueries, aggrates, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,28 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/08/java-portfolio/</loc>
+    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/data-science-portfolio/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/java-portfolio/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/data-management/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/database-management/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/series/hugo-101/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/oracle/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/series/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/sql/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/sql/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/09/sql-portfolio/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/structured-query-language/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/android/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/android-development/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/compose/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/development/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/jetpack/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/kotlin/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/kotlin/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2023/08/kotlin-and-android-development-portfolio/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gitmoorehub.github.io/Portfolio_Profiles/about/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/development/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gitmoorehub.github.io/Portfolio_Profiles/categories/golang/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/series/hugo-101/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/javascript/</loc>
@@ -35,19 +86,10 @@
     <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/node.js/javascript-portfolio/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/python/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gitmoorehub.github.io/Portfolio_Profiles/posts/2022/12/python-portfolio/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/series/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gitmoorehub.github.io/Portfolio_Profiles/tags/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url>
 </urlset>
