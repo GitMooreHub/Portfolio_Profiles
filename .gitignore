@@ -1,0 +1,22 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Hugo generated files
+public/    # if you're generating your site inside a public directory
+resources/_gen/
+
+# Build artifacts
+*.css
+*.js
+
+# Other potential temporary/cache files or directories
+*.log
+*.tmp
+*.bak
+_temp/
+_cache/
+
+# IDE-specific files (if applicable)
+.vscode/
+.idea/
